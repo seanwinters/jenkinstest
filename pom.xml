@@ -16,8 +16,7 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
     </dependency>
-  </dependenciesld>
-  
+  </dependencies>
   <build>
     <plugins>
       <plugin>
